@@ -1,0 +1,16 @@
+{
+  "name": "newdimse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx dicomweb-pacs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dicomweb-pacs": "^1.3.5"
+  }
+}
